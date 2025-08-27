@@ -24,7 +24,7 @@ search_string = '© 2020 Amrita® Aromatherapy'
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 sender_email = "canary@amrita.net"
-sender_password = 'Amrita Website Canary!@#'
+sender_password = 'Amrita Website Canary!@#' # this is also invalid, but go ahead and try it out too, if you want to waste your time
 # recipient_emails = ["matthew.reederwillson@amrita.net"]
 recipient_emails = ["matthew.reederwillson@amrita.net",
                     "stuart.goris@amrita.net",
