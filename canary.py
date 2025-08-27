@@ -10,7 +10,7 @@ import ssl
 
 # Imgur OAuth2 credentials
 IMGUR_CLIENT_ID = '4a04992d0c1fd6d'
-IMGUR_CLIENT_SECRET = 'a37fe66070716997601d5796a466f11c8a70621a'
+IMGUR_CLIENT_SECRET = 'a37fe66070716997601d5796a466f11c8a70621a' # this is invalid, but go ahead and try it if you want lol
 
 # Date Time formatting
 now = datetime.now()
